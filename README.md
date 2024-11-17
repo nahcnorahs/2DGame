@@ -20,17 +20,17 @@ AWSD to move
 - ENTER to interact with NPC
 - P to Pause the game
 
-  # Game Development
-  - Core Mechanisms: Game Panel, Window, Threading, Game Loop, Key Inputs
-  - Sprites & Animation
-  - Tile Drawing for Map
-  - World & Camera Setup
-  - Collision Detection
-  - Object Placement & Interaction
-  - Sound Integration
-  - Basic UI Elements
-  - Game States and Transitions
-  - NPC & Dialogue System
-  - Custom Fonts
-  - Title Screen
+# Game Development
+- Core Mechanisms: Game Panel, Window, Threading, Game Loop, Key Inputs
+- Sprites & Animation
+- Tile Drawing for Map
+- World & Camera Setup
+- Collision Detection
+- Object Placement & Interaction
+- Sound Integration
+- Basic UI Elements
+- Game States and Transitions
+- NPC & Dialogue System
+- Custom Fonts
+- Title Screen
     
