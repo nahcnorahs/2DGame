@@ -11,7 +11,7 @@ Alternative to run the game:
 # Objective
 Find the 3 keys to the locked doors to find the hidden treasure chest. Can pick up powerups on the way to help with the process.
 
-# Controls:
+# Controls
 AWSD to move
 - A to move RIGHT
 - D to move LEFT
